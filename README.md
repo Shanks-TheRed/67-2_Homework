@@ -1,2 +1,2 @@
 # 2567_2_Homework
-Homework only document files
+All Assignments in Semester 67/2
